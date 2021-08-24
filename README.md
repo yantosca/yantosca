@@ -24,6 +24,11 @@ Engineering and Applied Sciences<br>Cambridge, MA, USA
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=0000ff)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0000ff)
 
+![](https://img.shields.io/badge/Scheduler-Slurm-ccffff)
+![](https://img.shields.io/badge/Scheduler-PBS-ccffff)
+![](https://img.shields.io/badge/Scheduler-LSF-ccffff)
+![](https://img.shields.io/badge/Scheduler-GridEngine-ccffff)
+
 ![](https://img.shields.io/badge/Code-Fortran-informational?style=flat&logo=fortran&logoColor=white&color=ffff00)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=ffff00)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=ffff00)
@@ -35,6 +40,7 @@ Engineering and Applied Sciences<br>Cambridge, MA, USA
 ![](https://img.shields.io/badge/Web-HTML-ff0000)
 ![](https://img.shields.io/badge/Web-CSS-ff0000)
 ![](https://img.shields.io/badge/Web-Jekyll-ff0000)
+![](https://img.shields.io/badge/Web-DreamWeaver-ff0000)
 
 ![](https://img.shields.io/badge/Tools-Git-00ffff)
 ![](https://img.shields.io/badge/Tools-Github-00ffff)
@@ -45,17 +51,23 @@ Engineering and Applied Sciences<br>Cambridge, MA, USA
 ![](https://img.shields.io/badge/Tools-TAU-00ffff)
 
 ![](https://img.shields.io/badge/Doc-Sphinx-00aa00)
-![](https://img.shields.io/badge/Doc-MediaWiki-00aa00)
-![](https://img.shields.io/badge/Doc-DocuWiki-00aa00)
+![](https://img.shields.io/badge/Doc-ReadTheDocs-00aa00)
 ![](https://img.shields.io/badge/Doc-ReST-00aa00)
 ![](https://img.shields.io/badge/Doc-MarkDown-00aa00)
-![](https://img.shields.io/badge/Doc-ReadTheDocs-00aa00)
+![](https://img.shields.io/badge/Doc-MediaWiki-00aa00)
+![](https://img.shields.io/badge/Doc-DocuWiki-00aa00)
 ![](https://img.shields.io/badge/Doc-pydoc-00aa00)
+![](https://img.shields.io/badge/Doc-Org Mode-00aa00)
 
 ![](https://img.shields.io/badge/Editor-Emacs-ff00ff)
 ![](https://img.shields.io/badge/Editor-nano-ff00ff)
 ![](https://img.shields.io/badge/Editor-Notepad++-ff00ff)
 
+![](https://img.shields.io/badge/Apps-Google Docs-00ffff)
+![](https://img.shields.io/badge/Apps-Word-00ffff)
+![](https://img.shields.io/badge/Apps-Excel-00ffff)
+![](https://img.shields.io/badge/Apps-PowerPoint-00ffff)
+![](https://img.shields.io/badge/Apps-Outlook-00ffff)
 
 ## GitHub Stats
 
