@@ -57,13 +57,13 @@ Engineering and Applied Sciences<br>Cambridge, MA, USA
 ![](https://img.shields.io/badge/Doc-MediaWiki-00aa00)
 ![](https://img.shields.io/badge/Doc-DocuWiki-00aa00)
 ![](https://img.shields.io/badge/Doc-pydoc-00aa00)
-![](https://img.shields.io/badge/Doc-Org Mode-00aa00)
+![](https://img.shields.io/badge/Doc-Org-Mode-00aa00)
 
 ![](https://img.shields.io/badge/Editor-Emacs-ff00ff)
 ![](https://img.shields.io/badge/Editor-nano-ff00ff)
 ![](https://img.shields.io/badge/Editor-Notepad++-ff00ff)
 
-![](https://img.shields.io/badge/Apps-Google Docs-00ffff)
+![](https://img.shields.io/badge/Apps-Google-Docs-00ffff)
 ![](https://img.shields.io/badge/Apps-Word-00ffff)
 ![](https://img.shields.io/badge/Apps-Excel-00ffff)
 ![](https://img.shields.io/badge/Apps-PowerPoint-00ffff)
